@@ -13,6 +13,7 @@
     font-family: "Raleway", sans-serif;
     text-align: left;
     color: whitesmoke;
+    display: inline-block;
 }
 
 .list-style{
